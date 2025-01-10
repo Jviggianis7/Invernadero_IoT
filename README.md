@@ -1,5 +1,5 @@
 
-# Proyecto Final - Monitoreo Ambiental con ESP32
+# Monitoreo Ambiental con ESP32
 
 Este proyecto utiliza un microcontrolador **ESP32** para monitorear diversos parámetros ambientales mediante sensores y enviar los datos recopilados a la plataforma **ThingSpeak**. Además, los datos se muestran en una pantalla LCD conectada al dispositivo.
 
